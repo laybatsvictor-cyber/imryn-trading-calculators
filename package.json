@@ -1,0 +1,11 @@
+{
+  "name": "imryn-trading-calculators",
+  "version": "1.0.0",
+  "description": "Kelly criterion, fixed-fractional position size and CAGR calculators as pure, tested functions. Used by the free calculators on imryn.com.",
+  "main": "calc.js",
+  "license": "MIT",
+  "scripts": { "test": "node --test calc.test.mjs" },
+  "author": "Victor Laybats (IVRYN)",
+  "homepage": "https://imryn.com/guides/kelly-criterion-calculator/",
+  "engines": { "node": ">=18" }
+}
